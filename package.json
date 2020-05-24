@@ -1,0 +1,19 @@
+{
+  "name": "venkat_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev" :"nodemon index"
+  },
+  "author": "venkat",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^6.14.5",
+    "uuid": "^8.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
